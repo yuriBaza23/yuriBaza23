@@ -10,6 +10,4 @@ enthusiastic about entrepreneurship and computing
 
 "Being the richest man in the cemetery doesn't suit me ... going to bed saying that we did something incredible, yes, it suits me" Steve Jobs
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yuriBaza23&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/yuriBaza23)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriBaza23&layout=compact)](https://github.com/yuriBaza23)
