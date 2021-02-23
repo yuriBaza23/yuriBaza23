@@ -1,5 +1,3 @@
-# Yuri Baza
-
 CEO @NewHappen-Company
 
 [![Twitter Badge](https://img.shields.io/badge/-@baza_yuri-0097ff?style=flat-square&labelColor=0097ff&logo=twitter&logoColor=white&link=https://twitter.com/baza_yuri)](https://twitter.com/baza_yuri) 
