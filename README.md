@@ -47,7 +47,7 @@
 📍 **Rocketseat** - Santa Catarina, Brazil
 
 - 📖 **Programa UX Unicórnio**\
-📆 2020 - actual\
+📆 2020 - 2021\
 📍 **UX Unicórnio** - Distrito Federal, Brazil
 
 - 📖 **Design Circuit**\
@@ -55,5 +55,21 @@
 📍 **Apparicio Jr** - São Paulo, Brazil
 
 - 📖 **Ignite - Trilha ReactJS**\
-📆 2021 - actual\
+📆 2021 - 2021\
 📍 **Rocketseat** - Santa Catarina, Brazil
+  
+- 📖 **Ignite - Trilha React Native**\
+📆 2021 - 2021\
+📍 **Rocketseat** - Santa Catarina, Brazil
+
+- 📖 **Ignite - Trilha NodeJS**\
+📆 2021 - 2021\
+📍 **Rocketseat** - Santa Catarina, Brazil
+
+- 📖 **Ignite - Multiplatform Mobile App Development with React Native**\
+ 📆 2021 - actual\
+📍 **The Hong Kong University of Science and Technology** - Clear Water Bay, Hong Kong
+  
+- 📖 **Ignite - CS50's Introduction to Computer Science**\
+ 📆 2021 - actual\
+📍 **HarvardX** - MA, United States
