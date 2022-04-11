@@ -66,10 +66,10 @@
 📆 2021 - 2021\
 📍 **Rocketseat** - Santa Catarina, Brazil
 
-- 📖 **Ignite - Multiplatform Mobile App Development with React Native**\
+- 📖 **Multiplatform Mobile App Development with React Native**\
  📆 2021 - actual\
 📍 **The Hong Kong University of Science and Technology** - Clear Water Bay, Hong Kong
   
-- 📖 **Ignite - CS50's Introduction to Computer Science**\
+- 📖 **CS50's Introduction to Computer Science**\
  📆 2021 - actual\
 📍 **HarvardX** - MA, United States
