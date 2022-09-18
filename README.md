@@ -19,7 +19,7 @@ Sou viciado em assistir animes e ler mangás. Por mais que provoque a beira da t
 Me aventuro em cantar e tocar por aí músicas em que me vejo em meio aos versos. Enfim, isso é um pouco sobre mim :)  
 
 ### Alguns links caso se interesse
-[Meu AniList:](https://anilist.co/user/Halt/) Aqui você pode ver o que eu planejo assistir ou ler (se der tempo)
+[Meu AniList:](https://anilist.co/user/Halt/) Aqui você pode ver o que eu planejo assistir ou ler (se der tempo)  
 [Meu Instagram:](https://www.instagram.com/yuri_baza/) Eh, não tem nada demais aqui mas se quiser, ta na mão!
 
 ### Github Stats
