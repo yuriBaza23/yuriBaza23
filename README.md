@@ -1,22 +1,9 @@
-<h1 align="center">
-  <a href=""><img src="https://github.com/yuriBaza23/yuriBaza23/blob/master/banner.png?raw=true" alt="Yuri Baza banner"></a>
-</h1>
 
+<img src="https://github.com/yuriBaza23/yuriBaza23/blob/master/banner.png?raw=true" alt="Yuri Baza banner">
 <p>
   Full-Stack Developer, Designer and Businessman. São Paulo fan. Anime and soft drink enthusiast.
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/yuri-baza-170309196/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yuri_baza">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>
-  
-</p>
----
-#### This is my core Skillset
 <p>
   <a href="https://vercel.com">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -50,6 +37,6 @@
   </a>
   
 </p>
-<p>
+<p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yuriBaza23&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
