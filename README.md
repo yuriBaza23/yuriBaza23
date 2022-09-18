@@ -1,8 +1,5 @@
 
 <img src="https://github.com/yuriBaza23/yuriBaza23/blob/master/banner.png?raw=true" alt="Yuri Baza banner">
-<p>
-  Full-Stack Developer, Designer and Businessman. São Paulo fan. Anime and soft drink enthusiast.
-</p>
 
 <p>
   <a href="https://vercel.com">
@@ -37,6 +34,7 @@
   </a>
   
 </p>
+---
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yuriBaza23&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
