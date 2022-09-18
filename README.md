@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A mobile and web developer from Campo Mourão, Brazil.
+  A full stack developer from Campo Mourão, Brazil.
 </p>
 
 <p align='center'>
