@@ -1,7 +1,7 @@
 
 <img src="https://github.com/yuriBaza23/yuriBaza23/blob/master/banner.png?raw=true" alt="Yuri Baza banner">
 
-<p>
+<p align='center' style='margin-top: 10px'>
   <a href="https://vercel.com">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -32,9 +32,11 @@
   <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
-  
 </p>
----
+
+#### Github Analytics
+
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yuriBaza23&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriBaza23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriBaza23&layout=compact&langs_count=8&theme=dark"/>
 </p>
