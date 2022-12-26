@@ -14,7 +14,7 @@
 </p>
 
 ### Sobre mim
-Atualmente sou aluno de Ciência da Computação na <b>Universidade Tecnológica Federal do Paraná</b> e trabalho na área do desenvolvimento faz ~6 anos. Fiz diversos cursos sobre desenvolvimento web, mobile e back-end além de outros de design e experiência do usuário.  
+Atualmente sou aluno de Ciência da Computação na <b>Universidade Tecnológica Federal do Paraná</b> e trabalho na área do desenvolvimento faz ~7 anos. Fiz diversos cursos sobre desenvolvimento web, mobile e back-end além de outros de design e experiência do usuário.  
 Sou viciado em assistir animes e ler mangás. Por mais que provoque a beira da tristeza, sou São Paulino. Comecei a investir no empreendedorismo há alguns anos atrás quando vi algumas necessidades de pessoas próximas a mim e hoje em dia essa loucura é o meu sustento.  
 Me aventuro em cantar e tocar por aí músicas em que me vejo em meio aos versos. Enfim, isso é um pouco sobre mim :)  
 
