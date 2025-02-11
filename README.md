@@ -1,5 +1,3 @@
-![banner](https://github.com/yuriBaza23/yuriBaza23/blob/master/files/banner.png?raw=true)
-
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style='height: 22px'/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style='height: 22px'/>
@@ -15,12 +13,8 @@
 
 ### Sobre mim
 Atualmente sou aluno de Ciência da Computação na <b>Universidade Tecnológica Federal do Paraná</b> e trabalho na área do desenvolvimento faz ~7 anos. Fiz diversos cursos sobre desenvolvimento web, mobile e back-end além de outros de design e experiência do usuário.  
-Sou viciado em assistir animes e ler mangás. Por mais que provoque a beira da tristeza, sou São Paulino. Comecei a investir no empreendedorismo há alguns anos atrás quando vi algumas necessidades de pessoas próximas a mim e hoje em dia essa loucura é o meu sustento.  
+Sou viciado em assistir animes e ler mangás. Por mais que provoque a beira da tristeza, sou São Paulino.
 Me aventuro em cantar e tocar por aí músicas em que me vejo em meio aos versos. Enfim, isso é um pouco sobre mim :)  
-
-### Alguns links caso se interesse
-[Meu AniList:](https://anilist.co/user/Halt/) Aqui você pode ver o que eu planejo assistir ou ler (se der tempo)  
-[Meu Instagram:](https://www.instagram.com/yuri_baza/) Eh, não tem nada demais aqui mas se quiser, ta na mão!
 
 ### Github Stats
 
