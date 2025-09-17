@@ -12,9 +12,7 @@
 </p>
 
 ### Sobre mim
-Atualmente sou aluno de Ciência da Computação na <b>Universidade Tecnológica Federal do Paraná</b> e trabalho na área do desenvolvimento faz ~7 anos. Fiz diversos cursos sobre desenvolvimento web, mobile e back-end além de outros de design e experiência do usuário.  
-Sou viciado em assistir animes e ler mangás. Por mais que provoque a beira da tristeza, sou São Paulino.
-Me aventuro em cantar e tocar por aí músicas em que me vejo em meio aos versos. Enfim, isso é um pouco sobre mim :)  
+Atualmente sou aluno de Ciência da Computação na <b>Universidade Tecnológica Federal do Paraná</b> e trabalho na área do desenvolvimento faz ~8 anos. Fiz diversos cursos sobre desenvolvimento web, mobile e back-end além de outros de design e experiência do usuário.
 
 ### Github Stats
 
