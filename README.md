@@ -19,7 +19,12 @@ Currently, I'm the founder of **Newhappen**, where I lead the development of dig
 🌱 **Main interests:**  
 - Building scalable SaaS platforms for agribusiness  
 - Applications in pasture management, cattle supplementation, and rural productivity  
-- Integrating web, mobile, and AI technologies into the daily life of farmers  
+- Integrating web, mobile, and AI technologies into the daily life of farmers
+
+🎓 **Education & Studies:**  
+- 📘 **B.Sc. in Computer Science (in progress)** — Federal University of Technology – Paraná (UTFPR)  
+- 🎓 **M.Sc. in Software Engineering (starting soon, already taking graduate-level courses)** — Federal University of Technology – Paraná (UTFPR)  
+- 🤖 **Introduction to Artificial Intelligence with Python** — Harvard University (EdX)  
 
 💻 **Tech stack I work with:**  
 - **Frontend:** Next.js, React, Tailwind, Shadcn  
