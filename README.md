@@ -11,8 +11,23 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style='height: 22px'/>
 </p>
 
-### Sobre mim
-Atualmente sou aluno de Ciência da Computação na <b>Universidade Tecnológica Federal do Paraná</b> e trabalho na área do desenvolvimento faz ~8 anos. Fiz diversos cursos sobre desenvolvimento web, mobile e back-end além de outros de design e experiência do usuário.
+## Hi, I'm Yuri  
+
+I'm a **Mid-level Full Stack Developer** and entrepreneur passionate about technology and agribusiness.  
+Currently, I'm the founder of **Newhappen**, where I lead the development of digital solutions that bring innovation to the field.  
+
+🌱 **Main interests:**  
+- Building scalable SaaS platforms for agribusiness  
+- Applications in pasture management, cattle supplementation, and rural productivity  
+- Integrating web, mobile, and AI technologies into the daily life of farmers  
+
+💻 **Tech stack I work with:**  
+- **Frontend:** Next.js, React, Tailwind, Shadcn  
+- **Backend:** NestJS, Prisma, PostgreSQL, Firebase  
+- **Mobile:** Flutter  
+- **AI/Data:** Python, TensorFlow, OpenCV  
+
+🚜 My goal is to combine **computer science + agribusiness** to create products that truly generate impact in the sector.  
 
 ### Github Stats
 
