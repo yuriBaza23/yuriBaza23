@@ -24,7 +24,7 @@ Currently, I'm the founder of **Newhappen**, where I lead the development of dig
 💻 **Tech stack I work with:**  
 - **Frontend:** Next.js, React, Tailwind, Shadcn  
 - **Backend:** NestJS, Prisma, PostgreSQL, Firebase  
-- **Mobile:** Flutter  
+- **Mobile:** Flutter, React Native  
 - **AI/Data:** Python, TensorFlow, OpenCV  
 
 🚜 My goal is to combine **computer science + agribusiness** to create products that truly generate impact in the sector.  
